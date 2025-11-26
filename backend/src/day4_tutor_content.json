@@ -1,0 +1,32 @@
+[
+  {
+    "id": "variables",
+    "title": "Variables",
+    "summary": "Variables are like labeled containers that store information in your program. Think of them as boxes with name tags - you can put data in them, check what's inside, or change the contents. They're useful because they let you reuse values throughout your code without typing them repeatedly, and they make your code more flexible and easier to update.",
+    "sample_question": "What is a variable and why is it useful in programming?"
+  },
+  {
+    "id": "loops",
+    "title": "Loops",
+    "summary": "Loops are programming structures that repeat actions multiple times automatically. Instead of writing the same code over and over, you use a loop to tell the computer 'do this 10 times' or 'keep doing this until a condition is met.' The two main types are 'for loops' which repeat a specific number of times, and 'while loops' which repeat as long as a condition stays true.",
+    "sample_question": "Explain the difference between a for loop and a while loop. When would you use each one?"
+  },
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "Functions are reusable blocks of code that perform a specific task. Like a recipe, they take inputs (called parameters), do something with them, and often return a result. Functions help organize code, avoid repetition, and make programs easier to understand and maintain. You can think of them as mini-programs within your main program.",
+    "sample_question": "What is a function and what are the benefits of using functions in your code?"
+  },
+  {
+    "id": "conditionals",
+    "title": "Conditionals",
+    "summary": "Conditionals are decision-making structures in code, using if-then-else logic. They let your program choose different paths based on whether conditions are true or false. For example, 'if the user is logged in, show the dashboard, else show the login page.' This makes programs dynamic and responsive to different situations.",
+    "sample_question": "How do conditionals work and why are they important for making programs interactive?"
+  },
+  {
+    "id": "data_types",
+    "title": "Data Types",
+    "summary": "Data types define what kind of information a variable can hold - like numbers, text, true/false values, or collections of items. Each type has different capabilities: you can do math with numbers, combine text strings, or check boolean true/false conditions. Understanding data types helps prevent errors and lets you use the right operations for each kind of data.",
+    "sample_question": "Name three common data types and explain what each one is used for."
+  }
+]
